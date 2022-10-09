@@ -2,7 +2,7 @@
 
 ## Description:
 
-Welcome to ! First and foremost: thank you for taking the time to review this app and for your consideration for this role.
+Welcome to my Deque tech challenge! First and foremost: thank you for taking the time to review this app and for your consideration for this role.
 
 **If you run into any issues, or have any questions, please do not hesitate to contact me.**
 
@@ -19,7 +19,7 @@ NPM Packages used:\
 
 ## Functionality 
 
-The **`test.js`** file tests the Demo Mars page for 3 cases:
+The **`test.js`** file tests the Demo Mars page for 3 cases:\
 -main-nav CSS selector is loaded\
 -page title is correct\
 -links redirect to the correct URL
