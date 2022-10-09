@@ -12,7 +12,7 @@ Welcome to my Deque tech challenge! First and foremost: thank you for taking the
 
 NPM Packages used:\
 -`axe-core/webdriverjs`\
--`seleniuv-webdriver`\
+-`selenium-webdriver`\
 -`mocha`\
 -`chai`
 
