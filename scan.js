@@ -49,6 +49,7 @@ describe("verify: nav has loaded, page title is correct, nav links work, and pag
        assert.equal(linkCheck, 'https://dequeuniversity.com/demo/mars/mars2.html?a=send_me_to_mars');
      } finally {
        console.log("THIRD TEST PASSED");
+       await driver.quit();
      }
   })
 
@@ -68,6 +69,7 @@ describe("verify: nav has loaded, page title is correct, nav links work, and pag
       })
     } finally{
       console.log("TESTS COMPLETED")
+      await driver.quit();
     }
 
   })
