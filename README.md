@@ -19,11 +19,10 @@ NPM Packages used:\
 
 ## Functionality 
 
-The **`test.js`** file tests the Demo Mars page for 3 cases:\
+The **`scan.js`** file tests the Demo Mars page for 3 cases and for number of accessibility violations:\
 -`main-nav CSS selector is loaded`\
 -`page title is correct`\
--`links redirect to the correct URL`
-
-The **`scan.js`** file scans the Demo Mars page for accessibility. Results are returned to the console on the command line. Added extra variables to drill down into the JSON object easier. 
+-`links redirect to the correct URL`\
+-`Accessibility violations #`
 
 Happy testing!

@@ -64,12 +64,12 @@ describe("verify: nav has loaded, page title is correct, nav links work, and pag
           }
           else {
             console.log("Acessibility Violations:", results.violations.length)
+            // console.log(results.violations)
           }
         })
       })
     } finally{
       console.log("TESTS COMPLETED")
     }
-
   })
 })
