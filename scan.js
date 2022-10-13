@@ -69,7 +69,6 @@ describe("verify: nav has loaded, page title is correct, nav links work, and pag
       })
     } finally{
       console.log("TESTS COMPLETED")
-      await driver.quit();
     }
 
   })
